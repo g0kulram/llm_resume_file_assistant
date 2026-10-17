@@ -1,0 +1,12 @@
+Mateo Garcia
+Data Analyst | mateo.garcia@example.test
+SUMMARY
+Analyst who turns operational data into useful reporting and dashboards.
+SKILLS
+SQL, Python, pandas, Excel, Power BI, statistics, data visualization
+EXPERIENCE
+Data Analyst, Cedar Metrics (2023–2026)
+- Automated recurring reports with Python and SQL.
+- Created dashboards used by sales and operations teams.
+EDUCATION
+B.A. Economics, Example College, 2023

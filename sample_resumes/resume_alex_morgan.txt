@@ -1,0 +1,12 @@
+Alex Morgan
+Software Engineer | alex.morgan@example.test
+SUMMARY
+Backend-focused software engineer with 4 years of experience building APIs and automation.
+SKILLS
+Python, FastAPI, PostgreSQL, Docker, AWS, pytest, REST APIs
+EXPERIENCE
+Software Engineer, Northstar Labs (2022–2026)
+- Built Python REST APIs and background workers.
+- Improved query latency by 30% through indexing and profiling.
+EDUCATION
+B.Sc. Computer Science, Example State University, 2022

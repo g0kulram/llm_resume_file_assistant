@@ -1,0 +1,12 @@
+Priya Shah
+Mobile Application Developer | priya.shah@example.test
+SUMMARY
+Mobile engineer experienced in Android and cross-platform app development.
+SKILLS
+Kotlin, Swift, Jetpack Compose, SwiftUI, Kotlin Multiplatform, REST APIs, Git
+EXPERIENCE
+Mobile Developer, BrightApps (2021–2026)
+- Shipped customer-facing Android and iOS features.
+- Integrated authentication and analytics SDKs.
+EDUCATION
+B.E. Information Technology, Fictional Institute of Technology, 2021
